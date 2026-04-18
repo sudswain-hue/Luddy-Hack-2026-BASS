@@ -1,0 +1,8 @@
+torch
+torchvision
+fiftyone
+Pillow
+fastapi
+uvicorn
+pytesseract
+huggingface_hub>=0.20.0
