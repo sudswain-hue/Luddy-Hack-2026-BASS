@@ -1,0 +1,12 @@
+{
+  "dataset": "MNIST",
+  "num_classes": 10,
+  "final_val_accuracy": 0.991100013256073,
+  "best_val_accuracy": 0.9925000071525574,
+  "per_noise_accuracy": {
+    "clean": 0.9925000071525574,
+    "gaussian": 0.9908999800682068,
+    "salt_pepper": 0.9905999898910522
+  },
+  "total_epochs_run": 7
+}
